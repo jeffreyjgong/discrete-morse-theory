@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/jeffreygong/gh/discrete-morse-theory/media/videos/gvf/480p15/partial_movie_files/DiscreteMorseGradientField/1185818338_1231372850_223132457.mp4'
+file 'file:/Users/jeffreygong/gh/discrete-morse-theory/media/videos/gvf/480p15/partial_movie_files/DiscreteMorseGradientField/624642324_487419850_3570220456.mp4'
+file 'file:/Users/jeffreygong/gh/discrete-morse-theory/media/videos/gvf/480p15/partial_movie_files/DiscreteMorseGradientField/624642324_1025353025_986423590.mp4'
+file 'file:/Users/jeffreygong/gh/discrete-morse-theory/media/videos/gvf/480p15/partial_movie_files/DiscreteMorseGradientField/624642324_3150219369_536194821.mp4'
+file 'file:/Users/jeffreygong/gh/discrete-morse-theory/media/videos/gvf/480p15/partial_movie_files/DiscreteMorseGradientField/624642324_1854581901_1472626663.mp4'
+file 'file:/Users/jeffreygong/gh/discrete-morse-theory/media/videos/gvf/480p15/partial_movie_files/DiscreteMorseGradientField/624642324_3699813343_2599275312.mp4'
+file 'file:/Users/jeffreygong/gh/discrete-morse-theory/media/videos/gvf/480p15/partial_movie_files/DiscreteMorseGradientField/624642324_4031338023_2071578993.mp4'
+file 'file:/Users/jeffreygong/gh/discrete-morse-theory/media/videos/gvf/480p15/partial_movie_files/DiscreteMorseGradientField/624642324_3584861666_1814865291.mp4'
+file 'file:/Users/jeffreygong/gh/discrete-morse-theory/media/videos/gvf/480p15/partial_movie_files/DiscreteMorseGradientField/624642324_1141282389_4074754244.mp4'
