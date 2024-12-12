@@ -201,7 +201,7 @@ class Visualization:
         """
         # Extract vertices
         all_vertices = complex.get_simplices(0)
-        vertex_labels = [v[0] for v in all_vertices]  # Each vertex simplex is like ('A',)
+        vertex_labels = [v[0] for v in all_vertices]  
         
         # If no positions given, arrange vertices in a circle
         if vertex_positions is None:
